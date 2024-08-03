@@ -1,0 +1,10 @@
+1 cent ~ 1 cent dollar
+5 cents ~ 1 nickel dollar
+10 cents ~ 1 dime dollar doll
+25 cents ~ 1 quarter dollar
+100 cents ~ 1 dollar bill
+500 cents ~ 5 dollar bill
+
+No inexact payments, better for commerce but worse for market due to inflated value.
+
+Overall, this is good for smaller countries.
